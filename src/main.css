@@ -1,0 +1,13 @@
+.el-button-group + .el-button,
+div + .el-button {
+  margin-left: 12px;
+}
+
+.danger-text {
+  color: var(--el-color-danger);
+  font-weight: bold;
+}
+
+.el-tag + .el-tag {
+  margin-left: 4px;
+}
